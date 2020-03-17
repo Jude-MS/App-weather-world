@@ -4,8 +4,8 @@
 
 
 
-## Example: run in the terminar 
+## Example: run in the terminal 
 ``` 
     node app -d "Port-au-Prince" 
-    
+
 ```
